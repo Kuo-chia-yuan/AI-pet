@@ -20,5 +20,6 @@
 
 ## 運用技術：
 1. CNN
-2. SGD & A
-3. 情緒辨識
+2. SGD & Adam
+3. Classifier
+4. 情緒辨識
