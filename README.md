@@ -16,7 +16,9 @@
 2. 語音辨識的準確程度，會受周遭噪音影響而降低。
 3. 比較SGD與Adam的優劣(用於AI pet時)
 
-![image](https://user-images.githubusercontent.com/56677419/204789056-3df4df32-11c5-44bf-a98d-db241a7f5393.png)
+![image](https://user-images.githubusercontent.com/56677419/204790052-1eb452a0-b33b-4d95-8748-07005fd74a5a.png)
+
+![image](https://user-images.githubusercontent.com/56677419/204789996-3838b11d-6cd1-4775-a1d8-bc2597c369f9.png)
 
 ## 運用技術：
 1. CNN
